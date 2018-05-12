@@ -23,6 +23,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft
 description: These letters provide a glimpse into the love affair between Wollstonecraft
   and Imlay and offer insight into Wollstonecraft's character.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34413#The-Love-Letters-of-Mary-Wollstonecraft-to-Gilbert-Imlay
 gutenberg_issued: '2010-11-23'
 gutenberg_type: Text
 identifiers:
