@@ -1,0 +1,42 @@
+_repo: The-Love-Letters-of-Mary-Wollstonecraft-to-Gilbert-Imlay_34413
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Ingpen, Roger
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '37008'
+    url: http://www.gutenberg.org/2009/agents/37008
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wollstonecraft, Mary
+    aliases:
+    - Godwin, Mary Wollstonecraft
+    - Cresswick, Mr.
+    birthdate: 1759
+    deathdate: 1797
+    gutenberg_agent_id: '84'
+    url: http://www.gutenberg.org/2009/agents/84
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft
+description: These letters provide a glimpse into the love affair between Wollstonecraft
+  and Imlay and offer insight into Wollstonecraft's character.
+gutenberg_issued: '2010-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wollstonecraft, Mary, 1759-1797 -- Correspondence'
+- !lcc 'PR'
+- !lcsh 'Love-letters'
+- !lcsh 'Authors, English -- 18th century -- Correspondence'
+- !lcsh 'Feminists -- Great Britain -- Correspondence'
+- !lcsh 'Imlay, Gilbert, 1754?-1828? -- Correspondence'
+title: The Love Letters of Mary Wollstonecraft to Gilbert Imlay
+url: http://www.gutenberg.org/ebooks/34413
